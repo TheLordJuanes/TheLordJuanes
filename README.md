@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on my **Graduation Project**.
 
-- 🌱 I’m currently learning **Agile with Atlassian Jira**.
+- 🌱 I’m currently learning **React and Flutter**.
 
 - 🤝🏼 I’m looking to collaborate with **other developers**.
 
@@ -16,9 +16,9 @@
 
 - 👨🏻‍💻 All of my projects are available at **this [link](https://github.com/TheLordJuanes?tab=repositories)**.
 
-- 📄 Know about my experiences **[here](https://linkedin.com/in/juan-esteban-c-546754116)**.
+- 📄 Know about my experiences **[here](https://www.linkedin.com/in/thelordjuanes/)**.
 
-- ⚡ Fun fact: **I'm a polyglot of 5 languages (SPA, FRA, POR, ENG, ITA)**.
+- ⚡ Fun fact: **I'm skilled in 5 languages (SPA, FRA, POR, ENG, ITA)**.
 
 <h3 align="left">Connect with me: <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/> </h3>
 <p align="left">
