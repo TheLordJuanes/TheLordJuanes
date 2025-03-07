@@ -1,12 +1,12 @@
 [![MasterHead](https://www.jstips.co/assets/images/jstips-animation.gif)](https://rishavchanda.io)
 <h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="Hey" height="3%" width="3%"></img> Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" height="3%" width="3%"> Welcome! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="Hey" height="3%" width="3%"></img></h1>
-<h3 align="center">I'm Juanes, a Software Systems Engineer from Colombia 🇨🇴</h3>
+<h3 align="center">I'm Juanes, a Software Engineer from Colombia 🇨🇴</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=thelordjuanes&label=Profile%20views&color=0e75b6&style=flat" alt="thelordjuanes" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 
-- 🔭 I’m currently working on my **Graduation Project**.
+- 🔭 I’m currently working as a **Power Platform Developer**.
 
-- 🌱 I’m currently learning **React and Flutter**.
+- 🌱 I’m currently learning **Power Platform**.
 
 - 🤝🏼 I’m looking to collaborate with **other developers**.
 
@@ -16,7 +16,7 @@
 
 - 👨🏻‍💻 All of my projects are available at **this [link](https://github.com/TheLordJuanes?tab=repositories)**.
 
-- 📄 Know about my experiences **[here](https://www.linkedin.com/in/thelordjuanes/)**.
+- 📄 Know about my experiences **[here](https://www.linkedin.com/in/juan-esteban-caicedo-alzate/)**.
 
 - ⚡ Fun fact: **I'm skilled in 5 languages (SPA, FRA, POR, ENG, ITA)**.
 
