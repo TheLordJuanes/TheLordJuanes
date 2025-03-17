@@ -1,4 +1,4 @@
-[![MasterHead](https://www.jstips.co/assets/images/jstips-animation.gif)](https://rishavchanda.io)
+[![MasterHead](https://raw.githubusercontent.com/JackGraymer/JackGraymer/main/src/img/javascript.gif)](https://rishavchanda.io)
 <h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="Hey" height="3%" width="3%"></img> Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" height="3%" width="3%"> Welcome! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="Hey" height="3%" width="3%"></img></h1>
 <h3 align="center">I'm Juanes, a Software Engineer from Colombia 🇨🇴</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=thelordjuanes&label=Profile%20views&color=0e75b6&style=flat" alt="thelordjuanes" /> </p>
